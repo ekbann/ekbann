@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekbann
 - 👀 I’m interested in ... Retrocomputing and Raspberry Pi;
-- 🌱 I’m currently learning ... C++ with CodeWarrior on a Macintosh Quadra 800 emulated by Basilisk II running Mac OS 7.6.1 on a Raspberry Pi 3B;
+- 🌱 I’m currently learning ... C++ with CodeWarrior on a Macintosh Quadra 800 emulated by Basilisk II running Mac OS 7.6.1 on a Raspberry Pi 3B; also on a $99 Acer Chromebook 11 N7 (C731) running Debian Linux;
 - 💞️ I’m looking to collaborate on ... any cool project;
 - 📫 How to reach me ... here on GitHub.
 
