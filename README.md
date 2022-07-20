@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekbann
-- 👀 I’m interested in ... Retrocomputing, Raspberry Pi, and modern/retro software development;
-- 🌱 I’m currently learning ... C++ on a Macintosh Quadra 800 and MERN stack with React Native for web/mobile dev;
-- 💞️ I’m looking to collaborate on ... any cool project such as software development on the Commander X16 platform;
+- 👀 I’m interested in ... Retrocomputing, Raspberry Pi, and software development;
+- 🌱 I’m currently learning ... MERN stack with React Native for web/mobile dev;
+- 💞️ I’m looking to collaborate on ... any cool project for retro or modern platforms;
 - 📫 How to reach me ... here on GitHub.
 
 <!---
