@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekbann
-- 👀 I’m interested in ... Retrocomputing and Raspberry Pi;
-- 🌱 I’m currently learning ... C++ with CodeWarrior on a Macintosh Quadra 800 emulated by Basilisk II running Mac OS 7.6.1;
-- 💞️ I’m looking to collaborate on ... any cool project;
+- 👀 I’m interested in ... Retrocomputing, Raspberry Pi, and software development;
+- 🌱 I’m currently learning ... C++ on a Macintosh Quadra 800 and MERN stack with React Native for web/mobile dev;
+- 💞️ I’m looking to collaborate on ... any cool project such as software development on the Commander X16 platform;
 - 📫 How to reach me ... here on GitHub.
 
 <!---
