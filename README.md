@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekbann
 - 👀 I’m interested in ... Retrocomputing, Raspberry Pi, and software development;
-- 🌱 I’m currently learning ... MERN stack with React Native for web/mobile dev;
+- 🌱 I’m currently learning ... Machine learning compilers and optimizers;
 - 💞️ I’m looking to collaborate on ... any cool project for retro or modern platforms;
 - 📫 How to reach me ... here on GitHub.
 
