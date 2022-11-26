@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekbann
-- 👀 I’m interested in ... Retrocomputing, Raspberry Pi/Pico, and compiler development;
-- 🌱 I’m currently learning ... Rust and ML compilers;
-- 💞️ I’m looking to collaborate on ... any cool project for retro or modern platforms;
+- 👀 I’m interested in ... Retrocomputing, Raspberry Pi/Pico, and Compiler Design;
+- 🌱 I’m currently learning ... Rust and TensorFlow;
+- 💞️ I’m looking to collaborate on ... any cool project;
 - 📫 How to reach me ... here on GitHub.
 
 <!---
